@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.09bcc54a.css",
-    "main.js": "/static/js/main.ebab598e.js",
+    "main.js": "/static/js/main.46c6f914.js",
     "static/media/Mali q": "/static/media/Mali q.d93bfeb6243fe3a6ff34",
     "static/media/AfricaBig.png": "/static/media/AfricaBig.5639c97b87a3081191f4.png",
     "static/media/activiy mali.png": "/static/media/activiy mali.2ca32fe4e1248fe75a0e.png",
     "static/media/titleNoSpace.png": "/static/media/titleNoSpace.66e75791d5f144610506.png",
     "index.html": "/index.html",
     "main.09bcc54a.css.map": "/static/css/main.09bcc54a.css.map",
-    "main.ebab598e.js.map": "/static/js/main.ebab598e.js.map"
+    "main.46c6f914.js.map": "/static/js/main.46c6f914.js.map"
   },
   "entrypoints": [
     "static/css/main.09bcc54a.css",
-    "static/js/main.ebab598e.js"
+    "static/js/main.46c6f914.js"
   ]
 }
